@@ -22,13 +22,13 @@ theme = "vex-hugo"
       link = "#"
       text = "HOME"
     [[params.navbar.menu]]
-      link = "#about"
+      link = "#feature"
       text = "ABOUT"
     [[params.navbar.menu]]
-      link = "#service"
+      link = "#gallery"
       text = "SERVICES"
     [[params.navbar.menu]]
-      link = "#contact"
+      link = "#testimonials"
       text = "CONTACT"
 
   # Header
