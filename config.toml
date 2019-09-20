@@ -36,7 +36,7 @@ theme = "vex-hugo"
     title = "Believe in Technology, Make the change"
     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
     [params.header.image]
-      path = "images/watch.png"
+      path = "images/front.png"
       alt = "Watch"
     [params.header.button]
       link = "#about"
