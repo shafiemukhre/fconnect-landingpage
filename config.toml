@@ -35,9 +35,9 @@ theme = "vex-hugo"
   [params.header]
     title = "Believe in Technology, Make the change"
     text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-    [params.header.image]
-      path = "images/front.png"
-      alt = "Watch"
+    #[params.header.image]
+      #path = "images/front.png"
+      #alt = "Watch"
     [params.header.button]
       link = "#about"
       text = "Soon On Appstore"
@@ -85,13 +85,13 @@ theme = "vex-hugo"
   [params.feature_list]
     title = "Why Choose Apple Watch"
     [[params.feature_list.items]]
-      image = "images/showcase/showcase-4.png"
+      image = "images/front.png"
       title = "Lorem ipsum dolor sit amet."
       text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!"
       button_link = ""
       button_text = "Check Features"
     [[params.feature_list.items]]
-      image = "images/showcase/showcase-3.png"
+      image = "images/front.png"
       title = "Lorem ipsum dolor sit amet."
       text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!"
       button_link = ""
