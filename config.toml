@@ -33,10 +33,10 @@ theme = "vex-hugo"
 
   # Header
   [params.header]
-    title = "Believe in Technology, Make the change"
-    text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+    title = "Find the foods you love. And the foods your friends love."
+    text = ""
     #[params.header.image]
-      #path = "images/front.png"
+      #path = "images/applogoforwebsite.png"
       #alt = "Watch"
     [params.header.button]
       link = "#about"
@@ -51,29 +51,29 @@ theme = "vex-hugo"
     # Menu at the left of the image
     [[params.features.left]]
       icon = "tf-ion-ios-alarm-outline"
-      title = "Smooth Touch"
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      title = "Social Media Account"
+      text = "User can create an account and login via the iPhone"
     [[params.features.left]]
       icon = "tf-ion-ios-bell-outline"
-      title = "Elegant Design"
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      title = "Share Food Photos"
+      text = "User can take a photo of their favourite foods and post it with details and location"
     [[params.features.left]]
       icon = "tf-ion-ios-cart-outline"
-      title = "Easy Pricing"
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      title = "Wall of Foods"
+      text = "User can view a news feed of food photos shared by their friends"
     # Menu at the right of the image
     [[params.features.right]]
       icon = "tf-ion-ios-alarm-outline"
-      title = "Smooth Touch"
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      title = "Comments"
+      text = "User can comments on the post"
     [[params.features.right]]
       icon = "tf-ion-ios-bell-outline"
-      title = "Elegant Design"
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      title = "View Details and Location"
+      text = "User can view the details of the post and the location of the photo was taken"
     [[params.features.right]]
       icon = "tf-ion-ios-cart-outline"
-      title = "Easy Pricing"
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      title = "User Profile"
+      text = "User can view all the photos of foods that they have uploaded on their profile"
 
   [params.promo]
     title = "Designed by professional , the benefit for creative gigs"
