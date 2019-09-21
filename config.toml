@@ -79,7 +79,7 @@ theme = "vex-hugo"
     title = "Designed by iOS professionals, with love ❤ for amazing foods arounds us"
     text = ""
     [params.promo.image]
-      path = "images/watch.png"
+      path = "images/eatstagram.png"
       alt = "Watch"
 
   [params.feature_list]
