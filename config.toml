@@ -1,6 +1,6 @@
 baseurl = "https://www.eatstagram.ml/"
 languageCode = "en"
-title = "VEX Bootstrap 4 Product Landing Page"
+title = "Eatstagram"
 theme = "vex-hugo"
 
 [params]
@@ -35,9 +35,9 @@ theme = "vex-hugo"
   [params.header]
     title = "Find the foods you love. And the foods your friends love."
     text = ""
-    #[params.header.image]
-      #path = "images/applogoforwebsite.png"
-      #alt = "Watch"
+    [params.header.image]
+      path = "images/applogoforwebsite.png"
+      alt = "Watch"
     [params.header.button]
       link = "#about"
       text = "Soon On Appstore"
@@ -76,18 +76,18 @@ theme = "vex-hugo"
       text = "User can view all the photos of foods that they have uploaded on their profile"
 
   [params.promo]
-    title = "Designed by professional , the benefit for creative gigs"
-    text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.  \nLorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum."
+    title = "Designed by iOS professionals, with love ❤ for amazing foods arounds us"
+    text = ""
     [params.promo.image]
       path = "images/watch.png"
       alt = "Watch"
 
   [params.feature_list]
-    title = "Why Choose Apple Watch"
+    title = "Why Use Eatstagram"
     [[params.feature_list.items]]
       image = "images/front.png"
-      title = "Lorem ipsum dolor sit amet."
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!"
+      title = "Upload all the food photos"
+      text = "All of us are taking the photo of the foods before we eat only to save it inside our phone without even looking at it ever again. Sometimes we planned to upload it on social media, yet we forget or never uploaded it because it does not look 'perfect enough' to impress our public social media followers. With Eastagram, you will upload all your food photos to share with your small group of families and close friends."
       button_link = ""
       button_text = "Check Features"
     [[params.feature_list.items]]
@@ -98,7 +98,7 @@ theme = "vex-hugo"
       button_text = "Check Features"
 
   [params.gallery]
-    title = "Checkout some amazing Shorts"
+    title = "Take a peek inside the apps"
     # Set the image directory to use as base
     directory = "images/showcase"
     # Set the images to show in the gallery
@@ -106,29 +106,34 @@ theme = "vex-hugo"
 
   [params.call_to_action]
     title = "Get Product Updates"
-    text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+    text = "We will update you when we release the apps and the milestones achieved via email"
     placeholder = "Your Email Address Here"
     button_text = "Subscribe"
 
   [params.testimonials]
-    title = "Watch Review"
+    title = "Our Team"
     [[params.testimonials.blocks]]
-      text = "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      name = "Jonathon Andrew"
-      position = "CEO, Themefisher"
-      image = "images/avater.png"
+      text = ""
+      name = "Gregory Mayo"
+      position = "iOS Developer"
+      image = "images/profilepic/greg.png"
     [[params.testimonials.blocks]]
-      text = "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      name = "Jonathon Andrew"
-      position = "CEO, Themefisher"
-      image = "images/avater.png"
+      text = ""
+      name = "Kimleng Hor"
+      position = "Lead iOS Developer"
+      image = "images/profilepic/kim.png"
     [[params.testimonials.blocks]]
-      text = "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      name = "Jonathon Andrew"
-      position = "CEO, Themefisher"
-      image = "images/avater.png"
+      text = ""
+      name = "Samina Qazi"
+      position = "iOS Developer"
+      image = "images/profilepic/samina.png"
+    [[params.testimonials.blocks]]
+      text = ""
+      name = "Shafie Mukhre"
+      position = "iOS Developer"
+      image = "images/profilepic/shafie.png"
     [params.testimonials.button]
       link = ""
-      text = "Grab You Product Now"
+      text = "Join Us!"
 
   # Footer uses navbar data
