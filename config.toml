@@ -92,8 +92,8 @@ theme = "vex-hugo"
       button_text = "Check Features"
     [[params.feature_list.items]]
       image = "images/front.png"
-      title = "Lorem ipsum dolor sit amet."
-      text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!"
+      title = "Buy mealplans with weekly subscription"
+      text = "With Eastagram, you can subscribes to your favourite meals from nearby restaurants delivered on schedule to you home or office at breakfast/lunch/dinner time without on-demand delivery fees. In the near future, Eatstagram will also provides our very own "original" series of meals that taste better and healtier at affordable price range."
       button_link = ""
       button_text = "Check Features"
 
