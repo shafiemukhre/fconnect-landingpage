@@ -93,7 +93,7 @@ theme = "vex-hugo"
     [[params.feature_list.items]]
       image = "images/front.png"
       title = "Buy mealplans with weekly subscription"
-      text = "With Eastagram, you can subscribes to your favourite meals from nearby restaurants delivered on schedule to you home or office at breakfast/lunch/dinner time without on-demand delivery fees. In the near future, Eatstagram will also provides our very own "original" series of meals that taste better and healtier at affordable price range."
+      text = "With Eastagram, you can subscribes to your favourite meals from nearby restaurants delivered on schedule to you home or office at breakfast/lunch/dinner time without on-demand delivery fees. In the near future, Eatstagram will also provides our very own 'original' series of meals that taste better and healtier at affordable price range."
       button_link = ""
       #button_text = "Check Features"
 
