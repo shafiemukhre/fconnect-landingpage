@@ -89,13 +89,13 @@ theme = "vex-hugo"
       title = "Upload all the food photos"
       text = "All of us are taking the photo of the foods before we eat only to save it inside our phone without even looking at it ever again. Sometimes we planned to upload it on social media, yet we forget or never uploaded it because it does not look 'perfect enough' to impress our public social media followers. With Eastagram, you will upload all your food photos to share with your small group of families and close friends."
       button_link = ""
-      button_text = "Check Features"
+      #button_text = "Check Features"
     [[params.feature_list.items]]
       image = "images/front.png"
       title = "Buy mealplans with weekly subscription"
       text = "With Eastagram, you can subscribes to your favourite meals from nearby restaurants delivered on schedule to you home or office at breakfast/lunch/dinner time without on-demand delivery fees. In the near future, Eatstagram will also provides our very own "original" series of meals that taste better and healtier at affordable price range."
       button_link = ""
-      button_text = "Check Features"
+      #button_text = "Check Features"
 
   [params.gallery]
     title = "Take a peek inside the apps"
