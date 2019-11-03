@@ -1,6 +1,6 @@
 baseurl = "https://www.eatstagram.ml/"
 languageCode = "en"
-title = "Eatstagram"
+title = "FConnect+"
 theme = "vex-hugo"
 
 [params]
@@ -17,19 +17,19 @@ theme = "vex-hugo"
 
   # Navigation bar informations
   [params.navbar]
-    logo = "Eatstagram"
+    logo = "FConnect+"
     [[params.navbar.menu]]
       link = "#"
-      text = "HOME"
-    [[params.navbar.menu]]
-      link = "#feature"
-      text = "ABOUT"
-    [[params.navbar.menu]]
-      link = "#gallery"
-      text = "SERVICES"
-    [[params.navbar.menu]]
-      link = "#testimonials"
-      text = "CONTACT"
+      text = "Contribute to Open Resources"
+    #[[params.navbar.menu]]
+      #link = "#feature"
+      #text = "ABOUT"
+    #[[params.navbar.menu]]
+      #link = "#gallery"
+      #text = "SERVICES"
+    #[[params.navbar.menu]]
+      #link = "#testimonials"
+      #text = "CONTACT"
 
   # Header
   [params.header]
@@ -40,62 +40,62 @@ theme = "vex-hugo"
       alt = "Watch"
     [params.header.button]
       link = "#about"
-      text = "Soon On Appstore"
+      text = "Beta Ready. Soon on Appstore"
 
   # Features
-  [params.features]
-    title = "Our Core Features"
-    [params.features.image]
-      path = "images/watch-2.png"
-      alt = "Watch"
+  #[params.features]
+    #title = "Our Core Features"
+    #[params.features.image]
+      #path = "images/watch-2.png"
+      #alt = "Watch"
     # Menu at the left of the image
-    [[params.features.left]]
-      icon = "tf-ion-ios-alarm-outline"
-      title = "Social Media Account"
-      text = "User can create an account and login via the iPhone"
-    [[params.features.left]]
-      icon = "tf-ion-ios-bell-outline"
-      title = "Share Food Photos"
-      text = "User can take a photo of their favourite foods and post it with details and location"
-    [[params.features.left]]
-      icon = "tf-ion-ios-cart-outline"
-      title = "Wall of Foods"
-      text = "User can view a news feed of food photos shared by their friends"
+    #[[params.features.left]]
+      #icon = "tf-ion-ios-alarm-outline"
+      #title = "Social Media Account"
+      #text = "User can create an account and login via the iPhone"
+    #[[params.features.left]]
+      #icon = "tf-ion-ios-bell-outline"
+      #title = "Share Food Photos"
+      #text = "User can take a photo of their favourite foods and post it with details and location"
+    #[[params.features.left]]
+      #icon = "tf-ion-ios-cart-outline"
+      #title = "Wall of Foods"
+      #text = "User can view a news feed of food photos shared by their friends"
     # Menu at the right of the image
-    [[params.features.right]]
-      icon = "tf-ion-ios-alarm-outline"
-      title = "Comments"
-      text = "User can comments on the post"
-    [[params.features.right]]
-      icon = "tf-ion-ios-bell-outline"
-      title = "View Details and Location"
-      text = "User can view the details of the post and the location of the photo was taken"
-    [[params.features.right]]
-      icon = "tf-ion-ios-cart-outline"
-      title = "User Profile"
-      text = "User can view all the photos of foods that they have uploaded on their profile"
+    #[[params.features.right]]
+      #icon = "tf-ion-ios-alarm-outline"
+      #title = "Comments"
+      #text = "User can comments on the post"
+    #[[params.features.right]]
+      #icon = "tf-ion-ios-bell-outline"
+      #title = "View Details and Location"
+      #text = "User can view the details of the post and the location of the photo was taken"
+    #[[params.features.right]]
+      #icon = "tf-ion-ios-cart-outline"
+      #title = "User Profile"
+      #text = "User can view all the photos of foods that they have uploaded on their profile"
 
-  [params.promo]
-    title = "Designed by iOS professionals, with love ❤ for amazing foods arounds us"
-    text = ""
-    [params.promo.image]
-      path = "images/eatstagram.png"
-      alt = "Watch"
+  #[params.promo]
+    #title = "Designed by iOS professionals, with love ❤ for amazing foods arounds us"
+    #text = ""
+    #[params.promo.image]
+      #path = "images/eatstagram.png"
+      #alt = "Watch"
 
-  [params.feature_list]
-    title = "Why Use Eatstagram"
-    [[params.feature_list.items]]
-      image = "images/front.png"
-      title = "Upload all the food photos"
-      text = "All of us are taking the photo of the foods before we eat only to save it inside our phone without even looking at it ever again. Sometimes we planned to upload it on social media, yet we forget or never uploaded it because it does not look 'perfect enough' to impress our public social media followers. With Eastagram, you will upload all your food photos to share with your small group of families and close friends."
-      button_link = ""
-      button_text = "Check Features"
-    [[params.feature_list.items]]
-      image = "images/front.png"
-      title = "Buy mealplans with weekly subscription"
-      text = "With Eastagram, you can subscribes to your favourite meals from nearby restaurants delivered on schedule to you home or office at breakfast/lunch/dinner time without on-demand delivery fees. In the near future, Eatstagram will also provides our very own 'original' series of meals that taste better and healtier at affordable price range."
-      button_link = ""
-      button_text = "Check Features"
+  #[params.feature_list]
+    #title = "Why Use Eatstagram"
+    #[[params.feature_list.items]]
+      #image = "images/front.png"
+      #title = "Upload all the food photos"
+      #text = "All of us are taking the photo of the foods before we eat only to save it inside our phone without even looking at it ever again. Sometimes we planned to upload it on social media, yet we forget or never uploaded it because it does not look 'perfect enough' to impress our public social media followers. With Eastagram, you will upload all your food photos to share with your small group of families and close friends."
+      #button_link = ""
+      #button_text = "Check Features"
+    #[[params.feature_list.items]]
+      #image = "images/front.png"
+      #title = "Buy mealplans with weekly subscription"
+      #text = "With Eastagram, you can subscribes to your favourite meals from nearby restaurants delivered on schedule to you home or office at breakfast/lunch/dinner time without on-demand delivery fees. In the near future, Eatstagram will also provides our very own 'original' series of meals that taste better and healtier at affordable price range."
+      #button_link = ""
+      #button_text = "Check Features"
 
   [params.gallery]
     title = "Take a peek inside the apps"
