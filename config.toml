@@ -132,6 +132,11 @@ theme = "vex-hugo"
       name = "Shafie Mukhre"
       position = "iOS Developer"
       image = "images/profilepic/shafie.png"
+    [[params.testimonials.blocks]]
+      text = ""
+      name = "Basmah Altimimi"
+      position = "iOS Developer"
+      image = "images/profilepic/basmah.jpeg"
     [params.testimonials.button]
       link = ""
       text = "Join Us!"
