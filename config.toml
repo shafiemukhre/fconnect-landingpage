@@ -33,7 +33,7 @@ theme = "vex-hugo"
 
   # Header
   [params.header]
-    title = "Find the foods you love. And the foods your friends love."
+    title = "One stop shop for reliable resources and information for foster youth"
     text = ""
     [params.header.image]
       path = "images/applogoforwebsite.png"
@@ -102,7 +102,7 @@ theme = "vex-hugo"
     # Set the image directory to use as base
     directory = "images/showcase"
     # Set the images to show in the gallery
-    images = ["showcase-1.png", "showcase-2.png", "showcase-3.png", "showcase-4.png", "showcase-5.png", "showcase-6.png", "showcase-7.png", "showcase-8.png"]
+    images = ["fconnect1.png", "fconnect2.png", "fconnect3.png", "fconnect4.png", "fconnect5.png", "fconnect6.png", "fconnect7.png", "fconnect8.png", "fconnect9.png"]
 
   [params.call_to_action]
     title = "Get Product Updates"
