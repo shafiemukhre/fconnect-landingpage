@@ -36,7 +36,7 @@ theme = "vex-hugo"
     title = "One stop shop for reliable resources and information for foster youth"
     text = ""
     [params.header.image]
-      path = "images/fconnecticonlogo.png"
+      path = "images/fconnectlogo3.png"
       alt = "Watch"
     [params.header.button]
       link = "#about"
