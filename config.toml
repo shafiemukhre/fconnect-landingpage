@@ -20,7 +20,7 @@ theme = "vex-hugo"
     logo = "FConnect+"
     [[params.navbar.menu]]
       link = "#"
-      text = "Contribute to Open Resources"
+      text = "Open Resources (soon)"
     #[[params.navbar.menu]]
       #link = "#feature"
       #text = "ABOUT"
@@ -33,14 +33,14 @@ theme = "vex-hugo"
 
   # Header
   [params.header]
-    title = "One stop shop for reliable resources and information for foster youth"
+    title = "Reliable resources and information for foster youth"
     text = ""
     [params.header.image]
       path = "images/fconnectlogo3.png"
       alt = "Watch"
     [params.header.button]
       link = "#about"
-      text = "Beta Ready. Soon on Appstore"
+      text = "Soon on Appstore"
 
   # Features
   #[params.features]
