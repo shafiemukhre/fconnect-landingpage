@@ -21,15 +21,15 @@ theme = "vex-hugo"
     [[params.navbar.menu]]
       link = "#"
       text = "Open Resources (soon)"
-    #[[params.navbar.menu]]
-      #link = "#feature"
-      #text = "ABOUT"
-    #[[params.navbar.menu]]
-      #link = "#gallery"
-      #text = "SERVICES"
-    #[[params.navbar.menu]]
-      #link = "#testimonials"
-      #text = "CONTACT"
+    [[params.navbar.menu]]
+      link = "#feature"
+      text = "ABOUT"
+    [[params.navbar.menu]]
+      link = "#gallery"
+      text = "SERVICES"
+    [[params.navbar.menu]]
+      link = "#testimonials"
+      text = "CONTACT"
 
   # Header
   [params.header]
@@ -82,20 +82,20 @@ theme = "vex-hugo"
       #path = "images/eatstagram.png"
       #alt = "Watch"
 
-  #[params.feature_list]
-    #title = "Why Use Eatstagram"
-    #[[params.feature_list.items]]
-      #image = "images/front.png"
-      #title = "Upload all the food photos"
-      #text = "All of us are taking the photo of the foods before we eat only to save it inside our phone without even looking at it ever again. Sometimes we planned to upload it on social media, yet we forget or never uploaded it because it does not look 'perfect enough' to impress our public social media followers. With Eastagram, you will upload all your food photos to share with your small group of families and close friends."
-      #button_link = ""
-      #button_text = "Check Features"
-    #[[params.feature_list.items]]
-      #image = "images/front.png"
-      #title = "Buy mealplans with weekly subscription"
-      #text = "With Eastagram, you can subscribes to your favourite meals from nearby restaurants delivered on schedule to you home or office at breakfast/lunch/dinner time without on-demand delivery fees. In the near future, Eatstagram will also provides our very own 'original' series of meals that taste better and healtier at affordable price range."
-      #button_link = ""
-      #button_text = "Check Features"
+  [params.feature_list]
+    title = "Problem and Solution"
+    [[params.feature_list.items]]
+      image = "images/problemimage.jpg"
+      title = "Problem"
+      text = "About 25,000 foster youth age out of Foster system every year.  25% are homeless,  37% are high school drop outs, only 3% graduate out of college, more than half are unemployed,  90% live in poverty earning less than $10,000 per year. There are so many resources available to foster youth from Federal Government, State Government, City Council, and Non-Profit Organization scattered all over the internet and unknown to most foster youth."
+      button_link = "https://www.nfyi.org/51-useful-aging-out-of-foster-care-statistics-social-race-media/"
+      button_text = "Reference"
+    [[params.feature_list.items]]
+      image = "images/front.png"
+      title = "Solution"
+      text = "With FConnect+ mobile app, all these urgent and important information stays in their pocket and goes to the user through push notification when the user need it instead of the user searching on the internet. Each information ranked based on the most relevant personalized to each user from regular questionaire from time to time."
+      button_link = ""
+      button_text = "Download (Soon)"
 
   [params.gallery]
     title = "Take a peek inside the apps"
