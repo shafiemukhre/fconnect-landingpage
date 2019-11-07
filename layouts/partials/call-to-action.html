@@ -1,0 +1,34 @@
+{{- with .Site.Params.call_to_action }}
+<section class="call-to-action section bg-opacity bg-1">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 wow ">
+        <div class="block">
+          <h2 class="subheading text-center">{{ .title }}</h2>
+          <div class="col-md-6 text-md-right col-sm-12 text-sm-center">
+              <img style="max-width: 280px;"src="images/paypallogo2.png">
+            </div>
+            <div class="col-md-6 text-md-left col-sm-12 text-sm-center ">
+                <img style="max-width: 280px;"src="images/opportunityhacklogo.png">
+              </div>
+          <!--<p>{{ .text }}</p>
+          <!--<div class="col-lg-6 offset-lg-3">
+            <div class="input-group">
+              <input type="text" class="form-control" placeholder="{{ .placeholder }}">
+              <span class="input-group-btn">
+                <button class="btn btn-default btn-main" type="button">{{ .button_text }}</button>
+              </span>
+            </div><!-- /input-group -->
+
+            <div class="row mt-100">
+                  <div class="col-md-12 text-center">
+                    <a href="{{ .link }}" class="btn btn-main">{{ .button_text }}</a>
+                  </div>
+            </div>  
+          </div><!-- /.col-lg-6 -->
+        </div>
+      </div>
+    </div>
+  </div>
+</section><!-- #call-to-action close -->
+{{- end }}

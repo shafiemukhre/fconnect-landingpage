@@ -76,7 +76,7 @@ theme = "vex-hugo"
       #text = "User can view all the photos of foods that they have uploaded on their profile"
 
   [params.promo]
-    title = "All information a few clicks away in the palm of your hand"
+    title = "Personalized resources to help you with few clicks away in the palm of your hand"
     text = ""
     [params.promo.image]
       path = "images/holdphone.png"
@@ -93,7 +93,7 @@ theme = "vex-hugo"
     [[params.feature_list.items]]
       image = "images/30StandingCombine.png"
       title = "Solution"
-      text = "With FConnect+ mobile app, all these urgent and important information stays in their pocket and goes to the user through push notification when the user need it instead of the user searching on the internet. Each information ranked based on the most relevant personalized to each user from regular questionaire from time to time."
+      text = "With FConnect+ mobile app, all these urgent and important information stays in the user's pocket and goes to the user through push notification when the user need it instead of the user searching on the internet. Each information ranked based on the most relevant personalized to each user from regular questionaire from time to time."
       button_link = ""
       button_text = "Download (Soon)"
 
@@ -105,40 +105,41 @@ theme = "vex-hugo"
     images = ["fconnect1.png", "fconnect2.png", "fconnect3.png", "fconnect4.png", "fconnect5.png", "fconnect6.png", "fconnect7.png", "fconnect8.png", "fconnect9.png"]
 
   [params.call_to_action]
-    title = "Get Product Updates"
-    text = "We will update you when we release the apps and the milestones achieved via email"
+    title = "🏆 Second Placed Winner Paypal Opportunity Hack 2019 🏆"
+    #text = "We will update you when we release the apps and the milestones achieved via email"
     placeholder = "Your Email Address Here"
-    button_text = "Subscribe"
+    button_text = "DEVPOST PAGE"
+    link = "https://devpost.com/software/fconnect"
 
   [params.testimonials]
     title = "Our Team"
     [[params.testimonials.blocks]]
       text = ""
       name = "Gregory Mayo"
-      position = "iOS Developer"
+      position = ""
       image = "images/profilepic/greg.png"
     [[params.testimonials.blocks]]
       text = ""
       name = "Kimleng Hor"
-      position = "Lead iOS Developer"
+      position = ""
       image = "images/profilepic/kim.png"
     [[params.testimonials.blocks]]
       text = ""
       name = "Samina Qazi"
-      position = "iOS Developer"
+      position = ""
       image = "images/profilepic/samina.png"
     [[params.testimonials.blocks]]
       text = ""
       name = "Shafie Mukhre"
-      position = "iOS Developer"
+      position = ""
       image = "images/profilepic/shafie.png"
     [[params.testimonials.blocks]]
       text = ""
       name = "Basmah Altimimi"
-      position = "iOS Developer"
+      position = ""
       image = "images/profilepic/basmah.jpeg"
-    [params.testimonials.button]
-      link = ""
-      text = "Join Us!"
+    #[params.testimonials.button]
+      #link = ""
+      #text = "Join Us!"
 
   # Footer uses navbar data
