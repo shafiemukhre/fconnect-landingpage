@@ -21,15 +21,15 @@ theme = "vex-hugo"
     [[params.navbar.menu]]
       link = "#"
       text = "Open Resources (soon)"
-    [[params.navbar.menu]]
-      link = "#feature"
-      text = "ABOUT"
-    [[params.navbar.menu]]
-      link = "#gallery"
-      text = "SERVICES"
-    [[params.navbar.menu]]
-      link = "#testimonials"
-      text = "CONTACT"
+    #[[params.navbar.menu]]
+      #link = "#feature"
+      #text = "ABOUT"
+    #[[params.navbar.menu]]
+      #link = "#gallery"
+      #text = "SERVICES"
+    #[[params.navbar.menu]]
+      #link = "#testimonials"
+      #text = "CONTACT"
 
   # Header
   [params.header]
@@ -91,7 +91,7 @@ theme = "vex-hugo"
       button_link = "https://www.nfyi.org/51-useful-aging-out-of-foster-care-statistics-social-race-media/"
       button_text = "Reference"
     [[params.feature_list.items]]
-      image = "images/front.png"
+      image = "images/30StandingCombine.png"
       title = "Solution"
       text = "With FConnect+ mobile app, all these urgent and important information stays in their pocket and goes to the user through push notification when the user need it instead of the user searching on the internet. Each information ranked based on the most relevant personalized to each user from regular questionaire from time to time."
       button_link = ""
