@@ -75,12 +75,12 @@ theme = "vex-hugo"
       #title = "User Profile"
       #text = "User can view all the photos of foods that they have uploaded on their profile"
 
-  #[params.promo]
-    #title = "Designed by iOS professionals, with love ❤ for amazing foods arounds us"
-    #text = ""
-    #[params.promo.image]
-      #path = "images/eatstagram.png"
-      #alt = "Watch"
+  [params.promo]
+    title = "All information a few clicks away in the palm of your hand"
+    text = ""
+    [params.promo.image]
+      path = "images/holdphone.png"
+      alt = "Fconnect+ apps"
 
   [params.feature_list]
     title = "Problem and Solution"
