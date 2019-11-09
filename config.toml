@@ -105,7 +105,7 @@ theme = "vex-hugo"
     images = ["fconnect1.png", "fconnect2.png", "fconnect3.png", "fconnect4.png", "fconnect5.png", "fconnect6.png", "fconnect7.png", "fconnect8.png", "fconnect9.png"]
 
   [params.call_to_action]
-    title = "🏆 Second Placed Winner Paypal Opportunity Hack 2019 🏆"
+    title = "🏆 Second Place Winner Paypal Opportunity Hack 2019 🏆"
     #text = "We will update you when we release the apps and the milestones achieved via email"
     placeholder = "Your Email Address Here"
     button_text = "DEVPOST PAGE"
